@@ -1,8 +1,3 @@
-<!-- <a href="index.php">Beranda</a> | 
-<a href="index.php?menu=user">Data User</a> | 
-<a href="index.php?menu=rekapitulasi">Data Rekapitulasi</a> | 
-<a href="logout.php">Logout</a> |  -->
-
 <html>
   <head>
     <style>
