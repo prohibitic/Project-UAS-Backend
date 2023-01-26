@@ -16,9 +16,9 @@ include "koneksi.php";
  </style>
 </head>
 <body>
-<!-- <h1 align="center">Aplikasi Login Dengan Level Akses</h1>
-<hr> -->
+
 <!-- ------------------------------------------------------------------------------------------------------------------------ -->
+
 <?php 
 $level = $_SESSION['level'];
 if($level == 1) { include "menu_admin.php"; }
