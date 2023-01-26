@@ -25,7 +25,9 @@ if($level == 1) { include "menu_admin.php"; }
 if($level == 2) { include "menu_staff.php"; }
 if($level == 3) { include "menu_guest.php"; }
 ?>
+ 
 <hr>
+
 <?php 
 $nama     = $_SESSION['nama'];
 $username = $_SESSION['username'];
